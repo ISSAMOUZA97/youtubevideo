@@ -1,12 +1,37 @@
 /* Home.module.css */
+
 .container {
     display: flex;
     flex-direction: column;
     align-items: center;
-    justify-content: flex-start;
+    justify-content: flex-start; /* Adjust content alignment */
     min-height: 100vh;
-    background-color: #f0f0f0; /* Example background color */
+    padding: 0 20px;
   }
+  
+  .header, .footer {
+    text-align: center;
+    width: 100%;
+    /* Additional styling as before */
+  }
+  
+  .mainContent {
+    width: 90%; /* Adjust based on your preference */
+    max-width: 1200px; /* Ensures content is not too stretched on larger screens */
+    margin: 20px auto; /* Center the content with automatic margins */
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+ 
+  /* Add styles for the detailed description to ensure good readability */
+  .description {
+    text-align: justify;
+    margin-top: 20px;
+  }
+  
+  /* Ensure you include styles for h1, h2, p, and ol elements to match your design */
+  
 .formContainer h1 {
     margin-bottom: 20px; /* Adjust spacing between the heading and the input */
     text-align: center; /* Center-align the text if desired */
@@ -16,7 +41,7 @@
   /* Home.module.css */
 .description {
     margin-top: 20px;
-    text-align: justify;
+    text-align: center;
     max-width: 800px; /* Adjust based on your design */
   }
   
@@ -61,7 +86,7 @@
   }
   
   .formButton {
-    background-color: #ff5722; /* Example button color */
+    background-color: #3be402; /* Example button color */
     color: white;
     border: none;
     cursor: pointer;
