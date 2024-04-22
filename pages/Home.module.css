@@ -1,0 +1,86 @@
+/* Home.module.css */
+.container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: flex-start;
+    min-height: 100vh;
+    background-color: #f0f0f0; /* Example background color */
+  }
+.formContainer h1 {
+    margin-bottom: 20px; /* Adjust spacing between the heading and the input */
+    text-align: center; /* Center-align the text if desired */
+    font-size: 1.5rem; /* Adjust the font size as necessary */
+    color: #333; /* Specify a text color that fits the design */
+  }
+  /* Home.module.css */
+.description {
+    margin-top: 20px;
+    text-align: justify;
+    max-width: 800px; /* Adjust based on your design */
+  }
+  
+  .header {
+    width: 100%;
+    padding: 20px 0;
+    background-color: #ff5722; /* Adjust color as needed */
+    color: white;
+    text-align: center;
+    font-size: 24px;
+    box-shadow: 0 4px 6px rgba(0,0,0,0.1); /* Adds depth to the header */
+  }
+  
+  .mainContent {
+    flex: 1;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+  }
+  
+  .formContainer {
+    padding: 20px;
+    background-color: white; /* For contrast */
+    border-radius: 8px;
+    box-shadow: 0 4px 6px rgba(0,0,0,0.1); /* Consistent with header */
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    max-width: 480px; /* Adjust based on preference */
+  }
+  
+  .formInput, .formButton {
+    width: 100%;
+    margin: 10px 0;
+    padding: 10px;
+    border-radius: 5px;
+  }
+  
+  .formInput {
+    border: 1px solid #ccc; /* Adjust as needed */
+  }
+  
+  .formButton {
+    background-color: #ff5722; /* Example button color */
+    color: white;
+    border: none;
+    cursor: pointer;
+  }
+  
+  .invalid {
+    border-color: red; /* Highlight invalid input */
+  }
+  
+  .errorMessage {
+    color: red;
+  }
+  
+  .footer {
+    width: 100%;
+    padding: 20px 0;
+    background-color: #ff5722; /* Match header or adjust */
+    color: white;
+    text-align: center;
+    font-size: 16px;
+  }
+  
