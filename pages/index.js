@@ -86,6 +86,7 @@ export default function Home() {
           {/* Added SEO description */}
           <h2 className="text-xl font-semibold mb-2, text-align: center;">Discover the Simplest Way to Download YouTube Videos:</h2>
           <p>
+            {/*
           <div className={styles.bannerImage}>
           <Image
             src="/images/download.gif"
@@ -95,6 +96,7 @@ export default function Home() {
             objectFit="cover"
           />
         </div>
+        */}
         With our platform, downloading YouTube videos is a breeze. Just visit our website and find the URL input field at the top of the page. Copy the YouTube video&apos;s URL and paste it into the field. Next, click the &apos;Download&apos; button to see a list of available download links. Choose your desired video format and start the download. For Android users, we offer a dedicated YouTube video downloader app for added convenience. Start downloading your favorite videos today!&quot;
           </p>
           <h2 className="text-xl font-semibold mb-2">Fast and Free YouTube Video Downloader Online:</h2>
