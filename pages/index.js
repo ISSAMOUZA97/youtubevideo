@@ -64,7 +64,7 @@ export default function Home() {
             alt="YouTube Video Downloader Banner"
             width={800}
             height={300}
-            objectFit="cover"
+            objectFit="fill"
           />
         </div>
         <div className="mt-8" style={{ width: "100%" }}>
@@ -82,7 +82,7 @@ export default function Home() {
           </ol>
           <h2 className="text-xl font-semibold mb-2">Effortlessly Download Any Video from YouTube:</h2>
           <p>
-          Our website offers a simple and convenient way to download videos from YouTube using just the video URL. Whether you need to save a tutorial, music video, or documentary, our tool makes it easy. Simply paste the YouTube video URL into the provided box, select your preferred format and quality, and download the video with a click. No software installation or registration required. Start downloading your favorite videos now!"         </p>
+          Our website offers a simple and convenient way to download videos from YouTube using just the video URL. Whether you need to save a tutorial, music video, or documentary, our tool makes it easy. Simply paste the YouTube video URL into the provided box, select your preferred format and quality, and download the video with a click. No software installation or registration required. Start downloading your favorite videos now!&quot;         </p>
           {/* Added SEO description */}
           <h2 className="text-xl font-semibold mb-2, text-align: center;">Discover the Simplest Way to Download YouTube Videos:</h2>
           <p>
@@ -92,10 +92,10 @@ export default function Home() {
             alt="YouTube Video Downloader Banner"
             width={600}
             height={400}
-            objectFit="cover"
+            objectFit="fill"
           />
         </div>
-        With our platform, downloading YouTube videos is a breeze. Just visit our website and find the URL input field at the top of the page. Copy the YouTube video&apos;s URL and paste it into the field. Next, click the &apos;Download&apos; button to see a list of available download links. Choose your desired video format and start the download. For Android users, we offer a dedicated YouTube video downloader app for added convenience. Start downloading your favorite videos today!"
+        With our platform, downloading YouTube videos is a breeze. Just visit our website and find the URL input field at the top of the page. Copy the YouTube video&apos;s URL and paste it into the field. Next, click the &apos;Download&apos; button to see a list of available download links. Choose your desired video format and start the download. For Android users, we offer a dedicated YouTube video downloader app for added convenience. Start downloading your favorite videos today!&quot;
           </p>
           <h2 className="text-xl font-semibold mb-2">Fast and Free YouTube Video Downloader Online:</h2>
           <p>
