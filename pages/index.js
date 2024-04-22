@@ -64,7 +64,7 @@ export default function Home() {
             alt="YouTube Video Downloader Banner"
             width={800}
             height={300}
-            objectFit="fill"
+            objectFit="cover"
           />
         </div>
         <div className="mt-8" style={{ width: "100%" }}>
@@ -92,7 +92,7 @@ export default function Home() {
             alt="YouTube Video Downloader Banner"
             width={600}
             height={400}
-            objectFit="fill"
+            objectFit="cover"
           />
         </div>
         With our platform, downloading YouTube videos is a breeze. Just visit our website and find the URL input field at the top of the page. Copy the YouTube video&apos;s URL and paste it into the field. Next, click the &apos;Download&apos; button to see a list of available download links. Choose your desired video format and start the download. For Android users, we offer a dedicated YouTube video downloader app for added convenience. Start downloading your favorite videos today!&quot;
