@@ -55,7 +55,7 @@ export default function Home() {
             {!isValid && <p className={styles.errorMessage}>Please enter a valid YouTube video URL.</p>}
             <button onClick={handleDownload} className={styles.formButton}>Download Video</button>
           </div>
-          {/* Here you can include the detailed description as provided, ensuring it's properly formatted and structured */}
+          {/* Here you can include the detailed description as provided, ensuring it&apos;s properly formatted and structured */}
            {/* Added paragraphs below */}
           
         <div className={styles.bannerImage}>
@@ -76,9 +76,9 @@ export default function Home() {
           <ol className="list-decimal ml-4">
             <li><strong>Copy the YouTube Video URL:</strong> Go to the YouTube video you want to download, copy the URL from the address bar.</li>
             <li><strong>Paste the URL:</strong> Visit our website and paste the copied YouTube video URL into the designated box.</li>
-            <li><strong>Click 'Download':</strong> Click on the 'Download' button next to the URL box.</li>
+            <li><strong>Click &apos;Download&apos;:</strong> Click on the &apos;Download&apos; button next to the URL box.</li>
             <li><strong>Choose Format and Quality:</strong> Select the desired video format and quality from the options provided.</li>
-            <li><strong>Download the Video:</strong> Click on the 'Download' button next to the format and quality you chose. The video will start downloading to your device.</li>
+            <li><strong>Download the Video:</strong> Click on the &apos;Download&apos; button next to the format and quality you chose. The video will start downloading to your device.</li>
           </ol>
           <h2 className="text-xl font-semibold mb-2">Effortlessly Download Any Video from YouTube:</h2>
           <p>
@@ -95,16 +95,16 @@ export default function Home() {
             objectFit="cover"
           />
         </div>
-        With our platform, downloading YouTube videos is a breeze. Just visit our website and find the URL input field at the top of the page. Copy the YouTube video's URL and paste it into the field. Next, click the 'Download' button to see a list of available download links. Choose your desired video format and start the download. For Android users, we offer a dedicated YouTube video downloader app for added convenience. Start downloading your favorite videos today!"
+        With our platform, downloading YouTube videos is a breeze. Just visit our website and find the URL input field at the top of the page. Copy the YouTube video&apos;s URL and paste it into the field. Next, click the &apos;Download&apos; button to see a list of available download links. Choose your desired video format and start the download. For Android users, we offer a dedicated YouTube video downloader app for added convenience. Start downloading your favorite videos today!"
           </p>
           <h2 className="text-xl font-semibold mb-2">Fast and Free YouTube Video Downloader Online:</h2>
           <p>
            <li><strong>Effortlessly Download YouTube Videos with Ease:</strong> Looking to download YouTube videos hassle-free? Our platform offers a simple solution. Just paste the video URL, select your preferred format, and download with a click. No complex steps or software needed.</li>
-           <li><strong>Download YouTube Videos Quickly and Easily:</strong> With our user-friendly website, downloading YouTube videos is quick and easy. Simply copy the video URL, paste it into our tool, choose your desired format, and start the download. It's that simple!</li>
+           <li><strong>Download YouTube Videos Quickly and Easily:</strong> With our user-friendly website, downloading YouTube videos is quick and easy. Simply copy the video URL, paste it into our tool, choose your desired format, and start the download. It&apos;s that simple!</li>
            <li><strong>Get Access to High-Quality YouTube Video Downloads:</strong> Want to download YouTube videos in high quality? Our platform provides access to high-definition and 4K video downloads. Just paste the video URL, select your desired quality, and download with ease. Start downloading your favorite videos today! </li>         </p>
           <h2 className="text-xl font-semibold mb-2">Exciting News: Our Website is Developing a YouTube Video Downloader App!</h2>
           <p>
-          We're thrilled to announce that we're working on an app that will allow you to download any YouTube video directly to your mobile device. Soon, you'll have the convenience of saving your favorite videos for offline viewing. Stay tuned to our website for updates and the official launch of our YouTube video downloader app!          </p>
+          We&apos;re thrilled to announce that we&apos;re working on an app that will allow you to download any YouTube video directly to your mobile device. Soon, you&apos;ll have the convenience of saving your favorite videos for offline viewing. Stay tuned to our website for updates and the official launch of our YouTube video downloader app!          </p>
           <h2 className="text-xl font-semibold mb-2">Download Thumbnails of Public Videos:</h2>
           <p>
             Please note that our tool primarily supports public YouTube videos. You can easily download the thumbnails of any public YouTube video with just a single click. Unlock the potential of your video content with compelling thumbnails!
@@ -116,7 +116,7 @@ export default function Home() {
           <p>
             <h2 className="text-xl font-semibold mb-2" >Why Do We Need a Thumbnail?</h2>
             <p>
-              For application developers and webmasters, the greatest advantageous part of a thumbnail image is their reduced file size set alongside the original image. A website or an application could have significantly faster loading times if its array of image and video content is initially displayed in the shape of thumbnails. Also, anyone may need to download and use thumbnails in certain assignments like students who are working on a school project or IT developers looking to enhance their user interface, etc. It doesn't matter why we need thumbnails, what really matters is you can download video thumbnails with the help of our online tool when you need them.
+              For application developers and webmasters, the greatest advantageous part of a thumbnail image is their reduced file size set alongside the original image. A website or an application could have significantly faster loading times if its array of image and video content is initially displayed in the shape of thumbnails. Also, anyone may need to download and use thumbnails in certain assignments like students who are working on a school project or IT developers looking to enhance their user interface, etc. It doesn&apos;t matter why we need thumbnails, what really matters is you can download video thumbnails with the help of our online tool when you need them.
             </p>
           </p>
         </div>
