@@ -1,6 +1,7 @@
 import { Inter } from "next/font/google";
 import "./globals.css";
-import { metadata } from "./metadata"; // Import the metadata from the new file
+import { metadata } from "../config/metadata"; // Adjust the import path based on your project structure
+
 
 const inter = Inter({ subsets: ["latin"] });
 
